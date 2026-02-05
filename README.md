@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditiss-abhijeet" alt="ditiss-abhijeet" /></a> </p>
 
-- 🔭 I’m currently working in **DevOps**
+- 🔭 I’m currently working in **DevOps | Automation | Reliability**
 
-- 🌱 I’m currently learning **so many things but one at a time!**
+- 🌱 I’m currently learning **Learning and building—one thing at a time!**
 
-- 💬 Ask me about **Peaceful Work Done**
+- 💬 Ask me about **Ask me about delivering calm, reliable, and efficient work.**
 
-- ⚡ Fun fact **Life is beautiful,enjoy it!!!**
+- ⚡ Fun fact **Life is beautiful—enjoy the journey!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
