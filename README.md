@@ -1,5 +1,5 @@
 <h1 align="center">Abhijeet</h1>
-<h3 align="center">Computer Engineer | DevOps • OpenShift • Automation • Reliability</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
 Designing stable, scalable, and boring production systems
