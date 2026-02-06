@@ -1,42 +1,96 @@
-## Hi there 👋
+<h1 align="center">Don</h1>
+<h3 align="center">Computer Engineer | DevOps • Automation • Reliability</h3>
 
-<!--
-**ditiss-abhijeet/ditiss-abhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Abhijeet</h1>
-<h3 align="center">A Computer Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ditiss-abhijeet&label=Profile%20views&color=0e75b6&style=flat" alt="ditiss-abhijeet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ditiss-abhijeet" alt="ditiss-abhijeet" /></a> </p>
-
-- 🔭 I’m currently working in **DevOps | Automation | Reliability**
-
-- 🌱 I’m currently learning **Learning and building—one thing at a time!**
-
-- 💬 Ask me about **Ask me about delivering calm, reliable, and efficient work.**
-
-- ⚡ Fun fact **Life is beautiful—enjoy the journey!!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Engineering calm systems in a chaotic world
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ditiss-abhijeet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ditiss-abhijeet&theme=flat&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
+---
 
+## About Me
+
+I am a Computer Engineer from India with a strong focus on **DevOps engineering, automation, and system reliability**.  
+I enjoy designing systems that are **predictable, scalable, and boring in production**—because boring systems are stable systems.
+
+My approach is simple:
+- Build things right
+- Automate what can fail
+- Reduce operational noise
+- Improve reliability one layer at a time
+
+---
+
+## What I Do
+
+- Currently working in **DevOps, Automation, and Reliability Engineering**
+- Focused on building **resilient CI/CD pipelines, container platforms, and cloud-native systems**
+- Continuously learning by **building, breaking, and fixing real systems**
+- Strong believer in **clarity, simplicity, and operational excellence**
+
+---
+
+## Philosophy
+
+- Reliability is a feature, not an afterthought  
+- Automation should reduce stress, not create it  
+- Systems should fail gracefully and recover fast  
+- Consistency beats complexity  
+
+---
+
+## Languages & Tools
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+</p>
+
+---
+
+## Let’s Connect
+
+If you’re interested in:
+- DevOps best practices
+- Kubernetes and platform engineering
+- Automation and CI/CD
+- Reliable system design
+
+Feel free to explore my repositories or reach out.
+
+---
+
+<p align="center">
+Built with discipline, curiosity, and respect for production systems.
+</p>
