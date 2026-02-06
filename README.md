@@ -9,9 +9,10 @@ Designing stable, scalable, and boring production systems
   <img src="https://komarev.com/ghpvc/?username=ditiss-abhijeet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Followers](https://img.shields.io/github/followers/ditiss-abhijeet?style=flat&color=blue)
-![Stars](https://img.shields.io/github/stars/ditiss-abhijeet?style=flat&color=yellow)
-
+<p align="center">
+![Followers](https://img.shields.io/github/followers/ditiss-abhijeet?label=Followers&style=flat-square&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/ditiss-abhijeet?label=Stars&style=flat-square&color=555555)
+</p>
 
 ---
 
@@ -79,6 +80,7 @@ I value **clarity over cleverness** and **stability over shortcuts**.
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+ 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
@@ -89,17 +91,6 @@ I value **clarity over cleverness** and **stability over shortcuts**.
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-![GitHub followers](https://img.shields.io/github/followers/ditiss-abhijeet?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/ditiss-abhijeet?style=flat)
-
-</p>
-
----
-
 <p align="center">
 Built with discipline, patience, and respect for production systems.
 </p>
