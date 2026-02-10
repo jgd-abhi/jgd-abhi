@@ -1,4 +1,4 @@
-<h1 align="center">Abhijeet</h1>
+<h1 align="center">Abhijeeth</h1>
 <h3 align="center">Computer Engineer | Cloud • DevOps • Automation</h3>
 
 <p align="center">
